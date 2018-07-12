@@ -1,0 +1,6 @@
+Credentials cache: API:34618
+        Principal: tmercer@42.US.ORG
+
+  Issued                Expires               Principal
+Jun 18 12:30:01 2018  Jun 18 22:30:01 2018  krbtgt/42.US.ORG@42.US.ORG
+Jun 18 12:30:02 2018  Jun 18 22:30:01 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
